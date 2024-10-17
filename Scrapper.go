@@ -43,3 +43,5 @@ func reviewParse(g *geziyor.Geziyor, r *client.Response) {
 		g.GetRendered(r.JoinURL(href), reviewParse)
 	}
 }
+
+// Forking this repo so to get a PR. Fucking accept it :P
